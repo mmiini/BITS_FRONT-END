@@ -4,8 +4,7 @@ plugins {
 
 android {
     namespace = "com.example.bannerpage"
-    compileSdk = 34
-
+    compileSdk = 34 
     defaultConfig {
         applicationId = "com.example.bannerpage"
         minSdk = 24
